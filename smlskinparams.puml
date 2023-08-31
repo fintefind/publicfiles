@@ -1,0 +1,19 @@
+@startuml A5
+
+'SML's skinparam settings for sequence diagrams
+'!pragma teoz true
+skinparam style strictuml
+skinparam SequenceGroupBorderColor darkblue
+skinparam SequenceGroupHeaderFontColor darkblue
+skinparam SequenceGroupFontColor blue
+skinparam SequenceGroupBackgroundColor powderblue
+skinparam SequenceDividerBorderColor lightsteelblue
+skinparam SequenceDividerFontColor royalblue
+skinparam SequenceDividerBackgroundColor lightsteelblue
+skinparam ParticipantBackgroundColor LightGreen
+skinparam DatabaseBackgroundColor LightGreen
+skinparam CollectionsBackgroundColor LightGreen
+skinparam ActorBackgroundColor Green
+skinparam actorStyle awesome
+
+@enduml
